@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\bin\Debug\netcoreapp3.1\8-Condicionais II.exe
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\bin\Debug\netcoreapp3.1\8-Condicionais II.deps.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\bin\Debug\netcoreapp3.1\8-Condicionais II.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\bin\Debug\netcoreapp3.1\8-Condicionais II.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\bin\Debug\netcoreapp3.1\8-Condicionais II.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\bin\Debug\netcoreapp3.1\8-Condicionais II.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\obj\Debug\netcoreapp3.1\8-Condicionais II.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\obj\Debug\netcoreapp3.1\8-Condicionais II.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\obj\Debug\netcoreapp3.1\8-Condicionais II.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\obj\Debug\netcoreapp3.1\8-Condicionais II.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\obj\Debug\netcoreapp3.1\8-Condicionais II.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\obj\Debug\netcoreapp3.1\8-Condicionais II.genruntimeconfig.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\8-Condicionais II\obj\Debug\netcoreapp3.1\8-Condicionais II.csprojAssemblyReference.cache
