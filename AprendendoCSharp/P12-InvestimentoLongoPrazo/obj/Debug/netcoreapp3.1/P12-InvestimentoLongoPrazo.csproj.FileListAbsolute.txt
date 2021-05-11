@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.exe
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.deps.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.csprojAssemblyReference.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P12-InvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoLongoPrazo.genruntimeconfig.cache

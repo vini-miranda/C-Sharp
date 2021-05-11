@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\bin\Debug\netcoreapp3.1\P11-CalculaPoupanca II.exe
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\bin\Debug\netcoreapp3.1\P11-CalculaPoupanca II.deps.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\bin\Debug\netcoreapp3.1\P11-CalculaPoupanca II.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\bin\Debug\netcoreapp3.1\P11-CalculaPoupanca II.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\bin\Debug\netcoreapp3.1\P11-CalculaPoupanca II.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\bin\Debug\netcoreapp3.1\P11-CalculaPoupanca II.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\obj\Debug\netcoreapp3.1\P11-CalculaPoupanca II.csprojAssemblyReference.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\obj\Debug\netcoreapp3.1\P11-CalculaPoupanca II.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\obj\Debug\netcoreapp3.1\P11-CalculaPoupanca II.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\obj\Debug\netcoreapp3.1\P11-CalculaPoupanca II.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\obj\Debug\netcoreapp3.1\P11-CalculaPoupanca II.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\obj\Debug\netcoreapp3.1\P11-CalculaPoupanca II.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\P11-CalculaPoupanca II\obj\Debug\netcoreapp3.1\P11-CalculaPoupanca II.genruntimeconfig.cache
