@@ -1,0 +1,12 @@
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\netcoreapp3.1\1-PrimeiroPrograma.exe
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\netcoreapp3.1\1-PrimeiroPrograma.deps.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\netcoreapp3.1\1-PrimeiroPrograma.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\netcoreapp3.1\1-PrimeiroPrograma.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\netcoreapp3.1\1-PrimeiroPrograma.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\bin\Debug\netcoreapp3.1\1-PrimeiroPrograma.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.genruntimeconfig.cache

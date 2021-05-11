@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\bin\Debug\netcoreapp3.1\2-Variáveis.exe
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\bin\Debug\netcoreapp3.1\2-Variáveis.deps.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\bin\Debug\netcoreapp3.1\2-Variáveis.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\bin\Debug\netcoreapp3.1\2-Variáveis.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\bin\Debug\netcoreapp3.1\2-Variáveis.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\bin\Debug\netcoreapp3.1\2-Variáveis.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\obj\Debug\netcoreapp3.1\2-Variáveis.csprojAssemblyReference.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\obj\Debug\netcoreapp3.1\2-Variáveis.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\obj\Debug\netcoreapp3.1\2-Variáveis.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\obj\Debug\netcoreapp3.1\2-Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\obj\Debug\netcoreapp3.1\2-Variáveis.dll
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\obj\Debug\netcoreapp3.1\2-Variáveis.pdb
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\2-Variáveis\obj\Debug\netcoreapp3.1\2-Variáveis.genruntimeconfig.cache
