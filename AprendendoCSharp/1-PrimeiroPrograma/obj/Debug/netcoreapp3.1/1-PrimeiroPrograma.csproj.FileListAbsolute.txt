@@ -10,3 +10,4 @@ C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcorea
 C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.dll
 C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.pdb
 C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\v-alv\Desktop\C#\AprendendoCSharp\1-PrimeiroPrograma\obj\Debug\netcoreapp3.1\1-PrimeiroPrograma.csprojAssemblyReference.cache
