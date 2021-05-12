@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\bin\Debug\netcoreapp3.1\03-Funcoes.exe
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\bin\Debug\netcoreapp3.1\03-Funcoes.deps.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\bin\Debug\netcoreapp3.1\03-Funcoes.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\bin\Debug\netcoreapp3.1\03-Funcoes.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\bin\Debug\netcoreapp3.1\03-Funcoes.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\bin\Debug\netcoreapp3.1\03-Funcoes.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\obj\Debug\netcoreapp3.1\03-Funcoes.csprojAssemblyReference.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\obj\Debug\netcoreapp3.1\03-Funcoes.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\obj\Debug\netcoreapp3.1\03-Funcoes.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\obj\Debug\netcoreapp3.1\03-Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\obj\Debug\netcoreapp3.1\03-Funcoes.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\obj\Debug\netcoreapp3.1\03-Funcoes.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\03-Funcoes\obj\Debug\netcoreapp3.1\03-Funcoes.genruntimeconfig.cache
