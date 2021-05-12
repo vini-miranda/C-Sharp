@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\bin\Debug\netcoreapp3.1\02-ValorEReferencia.exe
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\bin\Debug\netcoreapp3.1\02-ValorEReferencia.deps.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\bin\Debug\netcoreapp3.1\02-ValorEReferencia.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\bin\Debug\netcoreapp3.1\02-ValorEReferencia.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\bin\Debug\netcoreapp3.1\02-ValorEReferencia.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\bin\Debug\netcoreapp3.1\02-ValorEReferencia.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\obj\Debug\netcoreapp3.1\02-ValorEReferencia.csprojAssemblyReference.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\obj\Debug\netcoreapp3.1\02-ValorEReferencia.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\obj\Debug\netcoreapp3.1\02-ValorEReferencia.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\obj\Debug\netcoreapp3.1\02-ValorEReferencia.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\obj\Debug\netcoreapp3.1\02-ValorEReferencia.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\obj\Debug\netcoreapp3.1\02-ValorEReferencia.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\02-ValorEReferencia\obj\Debug\netcoreapp3.1\02-ValorEReferencia.genruntimeconfig.cache
