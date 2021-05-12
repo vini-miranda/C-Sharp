@@ -3,6 +3,7 @@
     public class ContaCorrente
     {
         public Cliente Titular { get; set; }
+        public static int TotalContas { get; private set; }
         public int Agencia { get; set; }
         public int Conta { get; set; }
 
@@ -35,6 +36,8 @@
         {
             Agencia = agencia;
             Conta = conta;
+
+            TotalContas++;
         }
 
         public string Sacar(double valor)
