@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\bin\Debug\netcoreapp3.1\05-GetAndSet.exe
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\bin\Debug\netcoreapp3.1\05-GetAndSet.deps.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\bin\Debug\netcoreapp3.1\05-GetAndSet.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\bin\Debug\netcoreapp3.1\05-GetAndSet.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\bin\Debug\netcoreapp3.1\05-GetAndSet.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\bin\Debug\netcoreapp3.1\05-GetAndSet.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\obj\Debug\netcoreapp3.1\05-GetAndSet.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\obj\Debug\netcoreapp3.1\05-GetAndSet.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\obj\Debug\netcoreapp3.1\05-GetAndSet.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\obj\Debug\netcoreapp3.1\05-GetAndSet.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\obj\Debug\netcoreapp3.1\05-GetAndSet.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\obj\Debug\netcoreapp3.1\05-GetAndSet.genruntimeconfig.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\05-GetAndSet\obj\Debug\netcoreapp3.1\05-GetAndSet.csprojAssemblyReference.cache

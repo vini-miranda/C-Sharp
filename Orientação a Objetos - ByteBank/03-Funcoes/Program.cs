@@ -22,8 +22,9 @@ namespace _03_Funcoes
             conta.Depositar(800);
             Console.WriteLine("Saldo atual: R$" + conta.saldo);
 
-            conta.Transferir(400, conta2);
+            string msgt = conta.Transferir(400, conta2);
             Console.WriteLine();
+            Console.WriteLine(msgt);
             Console.WriteLine("Saldo atual conta1: R$" + conta.saldo);
             Console.WriteLine("Saldo atual conta2: R$" + conta2.saldo);
 

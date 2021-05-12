@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\bin\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.exe
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\bin\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.deps.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\bin\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\bin\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\bin\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\bin\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\obj\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.csprojAssemblyReference.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\obj\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\obj\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\obj\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\obj\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\obj\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\04-NamespacesEClassesConjuntas\obj\Debug\netcoreapp3.1\04-NamespacesEClassesConjuntas.genruntimeconfig.cache

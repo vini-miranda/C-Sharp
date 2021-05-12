@@ -1,0 +1,13 @@
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\bin\Debug\netcoreapp3.1\06-Construtores.exe
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\bin\Debug\netcoreapp3.1\06-Construtores.deps.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\bin\Debug\netcoreapp3.1\06-Construtores.runtimeconfig.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\bin\Debug\netcoreapp3.1\06-Construtores.runtimeconfig.dev.json
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\bin\Debug\netcoreapp3.1\06-Construtores.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\bin\Debug\netcoreapp3.1\06-Construtores.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\obj\Debug\netcoreapp3.1\06-Construtores.csprojAssemblyReference.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\obj\Debug\netcoreapp3.1\06-Construtores.AssemblyInfoInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\obj\Debug\netcoreapp3.1\06-Construtores.AssemblyInfo.cs
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\obj\Debug\netcoreapp3.1\06-Construtores.csproj.CoreCompileInputs.cache
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\obj\Debug\netcoreapp3.1\06-Construtores.dll
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\obj\Debug\netcoreapp3.1\06-Construtores.pdb
+C:\Users\v-alv\Desktop\C#\Orientação a Objetos - ByteBank\06-Construtores\obj\Debug\netcoreapp3.1\06-Construtores.genruntimeconfig.cache
