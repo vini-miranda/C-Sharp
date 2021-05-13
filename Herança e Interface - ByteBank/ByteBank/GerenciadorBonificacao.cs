@@ -14,11 +14,6 @@ namespace ByteBank
             _total += funcionario.getBonificacao();
         }
 
-        public void Registrar(Diretor diretor)
-        {
-            _total += diretor.getBonificacao();
-        }
-
         public double getBonificacao()
         {
             return _total;

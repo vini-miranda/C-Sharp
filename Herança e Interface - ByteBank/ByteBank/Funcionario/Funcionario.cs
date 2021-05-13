@@ -11,7 +11,7 @@ namespace ByteBank.Funcionario
         public double Salario { get; set; }
 
 
-        public double getBonificacao()
+        public virtual double getBonificacao()
         {
             return this.Salario * 0.10;
             

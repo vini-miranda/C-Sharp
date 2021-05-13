@@ -4,14 +4,10 @@ using System.Text;
 
 namespace ByteBank.Funcionario
 {
-    class Diretor
+    public class Diretor : Funcionarios
     {
-        public string Nome { get; set; }
-        public string Cpf { get; set; }
-        public double Salario { get; set; }
 
-
-        public double getBonificacao()
+        public override double getBonificacao()
         {
             return Salario;
 
