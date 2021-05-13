@@ -9,12 +9,18 @@ namespace ByteBank.Funcionario
         public static int ContaFuncionarios { get; set; }
         public string Nome { get; set; }
         public string Cpf { get; set; }
-        public double Salario { get; set; }
+        public double Salario { get; protected set; }
 
-        public Funcionarios(string cpf)
+        public Funcionarios(double salario,string cpf)
         {
             Cpf = cpf;
+            Salario = salario;
             ContaFuncionarios++;
+        }
+
+        public virtual void AumentarSalario()
+        {
+            this.Salario *= 1.1;
         }
 
         public virtual double getBonificacao()
