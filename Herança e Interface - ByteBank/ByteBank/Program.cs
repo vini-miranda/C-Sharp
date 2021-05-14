@@ -1,4 +1,5 @@
 ﻿using ByteBank.Funcionario;
+using ByteBank.Sistema;
 using System;
 
 namespace ByteBank
@@ -7,29 +8,54 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
+            acessarSistema();
+        }
+
+        public static void acessarSistema()
+        {
+            SistemaInterno system = new SistemaInterno();
+
+            Diretor roberta = new Diretor("456987321-64");
+            roberta.Nome = "Roberta";
+            roberta.Senha = "123";
+
+            GerenteDeConta camila = new GerenteDeConta("7896532410-45");
+            camila.Nome = "Camila";
+            camila.Senha = "abc";
+
+            ParceiroComercial renato = new ParceiroComercial();
+            renato.Senha = "789";
+
+            system.Logar(renato, "789");
+            system.Logar(roberta, "12");
+            system.Logar(camila, "abc");
+
+
+
+        }
+
+        public static void CalcularBonificacao()
+        {
             GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
-            Funcionarios carlos = new Funcionarios(2000,"123456789-00");
-            carlos.Nome = "Carlos";
-            carlos.AumentarSalario();
-            gerenciador.Registrar(carlos);
-            Console.WriteLine("Salário: R$" + carlos.Salario);
-            Console.WriteLine("Funcionarios registrados: " + Funcionarios.ContaFuncionarios);
+            Designer pedro = new Designer("123654789-99");
+            pedro.Nome = "Pedro";
 
-            Diretor roberta = new Diretor(5000,"987654321-00");
+            Diretor roberta = new Diretor("456987321-64");
             roberta.Nome = "Roberta";
-            roberta.AumentarSalario();
+
+            Auxiliar igor = new Auxiliar("6897543215-87");
+            igor.Nome = "Igor";
+
+            GerenteDeConta camila = new GerenteDeConta("7896532410-45");
+            camila.Nome = "Camila";
+
+            gerenciador.Registrar(pedro);
             gerenciador.Registrar(roberta);
-            Console.WriteLine("Salário: R$" + roberta.Salario);
-            Console.WriteLine("Funcionarios registrados: " + Funcionarios.ContaFuncionarios);
+            gerenciador.Registrar(igor);
+            gerenciador.Registrar(camila);
 
-            Console.WriteLine("Nome: " + carlos.Nome);
-            Console.WriteLine("Bonificação de fim de ano: R$" + carlos.getBonificacao());
-
-            Console.WriteLine("Nome: " + roberta.Nome);
-            Console.WriteLine(roberta.Cpf);
-            Console.WriteLine("Bonificação de fim de ano: R$" + roberta.getBonificacao());
-            Console.WriteLine("Total de bonificação: R$" + gerenciador.getBonificacao());
+            Console.WriteLine("Total bonificações do mes: R$" + gerenciador.getBonificacao());
         }
     }
 }

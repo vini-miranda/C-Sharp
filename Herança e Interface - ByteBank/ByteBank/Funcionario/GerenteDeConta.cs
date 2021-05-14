@@ -5,21 +5,20 @@ using System.Text;
 
 namespace ByteBank.Funcionario
 {
-    public class Diretor : FuncionarioAutenticavel
+    public class GerenteDeConta : FuncionarioAutenticavel
     {
-        public Diretor(string cpf) : base(5000,cpf)
+        public GerenteDeConta(string cpf) : base(4000, cpf)
         {
 
         }
-
         public override void AumentarSalario()
         {
-            this.Salario *= 1.15;
+            this.Salario *= 1.05;
         }
 
         public override double getBonificacao()
         {
-            return Salario * 0.5;
+            return Salario * 0.25;
 
         }
     }
