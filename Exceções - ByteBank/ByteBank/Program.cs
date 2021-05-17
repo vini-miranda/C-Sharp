@@ -8,6 +8,16 @@ namespace ByteBank
         {
             try
             {
+                ContaCorrente conta = new ContaCorrente(123, 0);
+            }
+            catch(ArgumentException e)
+            {
+                Console.WriteLine("Erro no parâmetro: " + e.ParamName);
+                Console.WriteLine(e.Message);
+            }
+  
+            try
+            {
                 Metodo();
             }
             catch (Exception erro)
