@@ -10,19 +10,18 @@ namespace ByteBank
             {
                 Metodo();
             }
-            catch (DivideByZeroException erro)
+            catch (Exception erro)
             {
                 Console.WriteLine(erro.Message);
                 Console.WriteLine(erro.StackTrace);
                 Console.WriteLine("Exceção tratada.");
             }
-            
-            
+
         }
 
         static void Metodo()
         {
-           
+
                 TestaDivisao(0);    
         }
 
@@ -33,7 +32,16 @@ namespace ByteBank
 
         public static int Dividir(int numero, int divisor)
         {
-            return numero / divisor;
+            try
+            {
+                return numero / divisor;
+            }
+            catch
+            {
+                Console.WriteLine("Não é possível dividir " + numero + " por " + divisor);
+                throw;
+            }
+            
         }
 
 
