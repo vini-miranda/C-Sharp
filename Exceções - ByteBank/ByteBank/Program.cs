@@ -8,17 +8,23 @@ namespace ByteBank
         {
             try
             {
-                ContaCorrente conta = new ContaCorrente(123, 0);
+                Metodo();
+                ContaCorrente conta = new ContaCorrente(123, 456654);
+                Console.WriteLine("Saldo atual: R$" + conta.Saldo);
+                conta.Depositar(100);
+                Console.WriteLine("Saldo atual: R$" + conta.Saldo);
+                conta.Sacar(500);
+                Console.WriteLine("Saldo atual: R$" + conta.Saldo);
+
             }
             catch(ArgumentException e)
             {
                 Console.WriteLine("Erro no parâmetro: " + e.ParamName);
                 Console.WriteLine(e.Message);
             }
-  
-            try
+            catch(SaldoInsuficienteException e)
             {
-                Metodo();
+                Console.WriteLine(e.Message);
             }
             catch (Exception erro)
             {
@@ -32,7 +38,7 @@ namespace ByteBank
         static void Metodo()
         {
 
-                TestaDivisao(0);    
+                TestaDivisao(2);    
         }
 
         static void TestaDivisao(int divisor)

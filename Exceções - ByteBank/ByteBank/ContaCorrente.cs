@@ -49,16 +49,15 @@ namespace ByteBank
             TotalContas++;
         }
 
-        public string Sacar(double valor)
+        public void Sacar(double valor)
         {
             if (_saldo < valor)
             {
-                return "Saldo indisponível para saque";
+                throw new SaldoInsuficienteException("Saldo insuficiente para saque de R$" + valor);
             }
             else
             {
                 _saldo -= valor;
-                return "Saque realizado com sucesso";
             }
         }
 
